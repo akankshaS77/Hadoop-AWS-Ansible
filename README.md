@@ -80,7 +80,7 @@ To know more about Ansible and Dowload Ansible [Visit!](https://www.ansible.com/
 
 ## 🤩✨ Congratulations, Your Big-data Hadoop Multi-Node Cluster is Setup. :)
 
-* Note: For any query realled to this Project Connect us:
+* Note: For any query related to this Project Connect us:
   * @raktim00 and @akankshaS77
 
 
