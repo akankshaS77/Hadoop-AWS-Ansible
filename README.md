@@ -20,8 +20,8 @@ To know more about it and To download Hadoop [Visit!](https://hadoop.apache.org/
 
 ## Multi-Node Cluster
 
-<h1 align=center>
-  < img src="https://github.com/akankshaS77/Hadoop-AWS-Ansible/blob/main/MNA.gif" />
+<h1 align="center">
+  <image src="https://github.com/akankshaS77/Hadoop-AWS-Ansible/blob/main/MNA.gif" />
 </h1>
 
 ### Used Ansible Roles for Configuring Hadoop Cluster:
