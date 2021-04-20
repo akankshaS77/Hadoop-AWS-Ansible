@@ -18,6 +18,7 @@ Hadoop is an Apache Framework to Do Big Data Computing and Storage through Distr
 
 To know more about it and To download Hadoop (Visit!)[https://hadoop.apache.org/]
 
+![**Multi-node CLuster**](https://github.com/akankshaS77/Hadoop-AWS-Ansible/blob/main/MNA.gif)
 
 ### Used Ansible Roles for Configuring Hadoop Cluster:
 
